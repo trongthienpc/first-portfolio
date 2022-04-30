@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&family=Poppins:wght@300;400;500;600;700&display=swap');
 
 :root {
     --bg-black-900: #f2f2fc;
@@ -220,7 +220,7 @@ li {
 }
 
 .aside .logo a span {
-    font-family: 'Clicker Script', cursive;
+    font-family: monospace, cursive;
     font-size: 40px;
 }
 
@@ -296,7 +296,7 @@ h3.hello {
 }
 
 h3.hello span {
-    font-family: 'Clicker Script', cursive;
+    font-family: monospace, cursive;
     font-size: 30px;
     font-weight: 700;
     color: var(--skin-color);
@@ -736,6 +736,7 @@ h3.my-profession {
     font-size: 16px;
     color: var(--text-black-700);
     transition: all .3s ease;
+    font-family: monospace, serif;
 }
 
 .form-control:focus {
