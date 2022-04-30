@@ -659,6 +659,7 @@ h3.my-profession {
     font-weight: 500;
     font-size: 15px;
     margin-bottom: 60px;
+    color: var(--text-black-700);
 }
 
 .contact-info-item {
